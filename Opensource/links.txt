@@ -1,0 +1,24 @@
+VCS -> Git, SVN, Mercurial
+
+https://raosh.notion.site/OSS-5b6ed4cd3b624304811533b2fe306082?pvs=4
+
+Docker communication, Youtrack
+
+https://docs.google.com/document/d/1o7B7T2RPCXZobAgceJt-kkb0itf1C-gXrNE8sLWMWLM/edit?usp=sharing
+
+RPM, Debian, Kernel compilation
+
+https://trusted-flare-75f.notion.site/Open-Source-Software-OSS-6d2a6692f2ba403f9461e1718f79a9e1?pvs=4
+
+Theory
+
+https://docs.google.com/document/d/1utvq9kpDq3ttIS7ZQDi832uM9S5nFlVhpRdDcUdDhLw/edit?usp=sharing
+
+JDK
+
+https://docs.docker.com/language/java/build-images/
+
+
+OSS Docker all - Github link
+
+https://github.com/RiteshWanave/oss.git
